@@ -1,0 +1,11 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+   
+  },
+  "engines": {
+    "yarn": ">= 1.0.0"
+  }
+}
